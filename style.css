@@ -1,0 +1,33 @@
+.box1 img{
+    height: 150px;
+    width: 240px;
+    margin-bottom: 0px;
+}
+
+.box1 p{
+    height:auto;
+    width: 100px;
+    margin-left: 50px;
+    text-align: justify;
+  
+
+    
+    
+    
+}
+.box1{
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+    background-color: orange;
+    text-align: center;
+    height: auto;
+    
+}
+.box1 h5{
+    margin-bottom: 0px;
+    line-height: 0%;
+}
+.box1 h3{
+    line-height: 0%;
+}
